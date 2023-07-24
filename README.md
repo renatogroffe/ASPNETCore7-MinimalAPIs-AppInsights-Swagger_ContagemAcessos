@@ -1,2 +1,2 @@
 # ASPNETCore7-MinimalAPIs-AppInsights-Swagger_ContagemAcessos
-.NET 7 + ASP.NET Core + Minimal APIs + Swagger/OpenApi + Application Insights + Dockerfile + Contagem de acessos
+Exemplo de API REST para contagem de acessos criada com .NET 7 + ASP.NET Core + Minimal APIs, com monitoramento via Application Insights. Inclui um Dockerfile para a geração de imagens baseadas em Linux.
